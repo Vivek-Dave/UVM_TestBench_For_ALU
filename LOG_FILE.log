@@ -1,0 +1,636 @@
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 0: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0000 m=0 cin=0  out=xxxxxxxx cout=x aeb=x
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00110100  in2=01100010 s=0000 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 5: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00110100  in2=01100010 s=0000 m=1 cin=0  out=00000001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 10: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10100001  in2=11001011 s=0001 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 10: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10100001  in2=11001011 s=0001 m=1 cin=0  out=11001011 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01111011  in2=10011101 s=0010 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 15: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01111011  in2=10011101 s=0010 m=1 cin=0  out=00010100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 15: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01111011  in2=10011101 s=0010 m=1 cin=0  out=00010100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 20: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11011000  in2=11100010 s=0011 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 20: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11011000  in2=11100010 s=0011 m=1 cin=0  out=10000100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 20: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11011000  in2=11100010 s=0011 m=1 cin=0  out=10000100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01111100  in2=10110110 s=0100 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 25: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01111100  in2=10110110 s=0100 m=1 cin=0  out=00000000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 25: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01111100  in2=10110110 s=0100 m=1 cin=0  out=00000000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 30: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10001001  in2=00111111 s=0101 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 30: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10001001  in2=00111111 s=0101 m=1 cin=0  out=11001011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 30: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10001001  in2=00111111 s=0101 m=1 cin=0  out=11001011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=01111101 s=0110 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 35: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=01111101 s=0110 m=1 cin=0  out=11000000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 35: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=01111101 s=0110 m=1 cin=0  out=11000000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 40: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11011110  in2=01110000 s=0111 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 40: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11011110  in2=01110000 s=0111 m=1 cin=0  out=10000010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 40: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11011110  in2=01110000 s=0111 m=1 cin=0  out=10000010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00100110  in2=00011000 s=1000 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 45: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00100110  in2=00011000 s=1000 m=1 cin=0  out=10001110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 45: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00100110  in2=00011000 s=1000 m=1 cin=0  out=10001110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 50: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11010111  in2=01110101 s=1001 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 50: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11010111  in2=01110101 s=1001 m=1 cin=0  out=11011001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 50: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11010111  in2=01110101 s=1001 m=1 cin=0  out=11011001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11110001  in2=10000111 s=1010 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 55: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11110001  in2=10000111 s=1010 m=1 cin=0  out=01011101 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 55: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11110001  in2=10000111 s=1010 m=1 cin=0  out=01011101 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 60: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01110100  in2=01001110 s=1011 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 60: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01110100  in2=01001110 s=1011 m=1 cin=0  out=10000111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 60: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01110100  in2=01001110 s=1011 m=1 cin=0  out=10000111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01100000  in2=11001010 s=1100 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 65: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01100000  in2=11001010 s=1100 m=1 cin=0  out=01000100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 65: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01100000  in2=11001010 s=1100 m=1 cin=0  out=01000100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 70: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10110101  in2=11111011 s=1101 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 70: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10110101  in2=11111011 s=1101 m=1 cin=0  out=00000001 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 70: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10110101  in2=11111011 s=1101 m=1 cin=0  out=00000001 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01110011  in2=11100001 s=1110 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 75: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01110011  in2=11100001 s=1110 m=1 cin=0  out=10110101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 75: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01110011  in2=11100001 s=1110 m=1 cin=0  out=10110101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 80: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10011010  in2=01111100 s=1111 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 80: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10011010  in2=01111100 s=1111 m=1 cin=0  out=11110011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 80: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10011010  in2=01111100 s=1111 m=1 cin=0  out=11110011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00101010  in2=11001100 s=0000 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 85: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00101010  in2=11001100 s=0000 m=1 cin=0  out=10011010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 85: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00101010  in2=11001100 s=0000 m=1 cin=0  out=10011010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 90: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00100011  in2=11010001 s=0001 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 90: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00100011  in2=11010001 s=0001 m=1 cin=0  out=11010101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 90: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00100011  in2=11010001 s=0001 m=1 cin=0  out=11010101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10000101  in2=10001011 s=0010 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 95: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10000101  in2=10001011 s=0010 m=1 cin=0  out=00001100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 95: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10000101  in2=10001011 s=0010 m=1 cin=0  out=00001100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01010000  in2=11111010 s=0011 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01010000  in2=11111010 s=0011 m=1 cin=0  out=00001010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 100: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01010000  in2=11111010 s=0011 m=1 cin=0  out=00001010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10000100  in2=00011110 s=0100 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10000100  in2=00011110 s=0100 m=1 cin=0  out=00000000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 105: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10000100  in2=00011110 s=0100 m=1 cin=0  out=00000000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00100001  in2=11110111 s=0101 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00100001  in2=11110111 s=0101 m=1 cin=0  out=11111011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 110: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00100001  in2=11110111 s=0101 m=1 cin=0  out=11111011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00100111  in2=10000101 s=0110 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00100111  in2=10000101 s=0110 m=1 cin=0  out=00001000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 115: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00100111  in2=10000101 s=0110 m=1 cin=0  out=00001000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10010110  in2=11001000 s=0111 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10010110  in2=11001000 s=0111 m=1 cin=0  out=10100010 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 120: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10010110  in2=11001000 s=0111 m=1 cin=0  out=10100010 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01101110  in2=11000000 s=1000 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01101110  in2=11000000 s=1000 m=1 cin=0  out=00010110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 125: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01101110  in2=11000000 s=1000 m=1 cin=0  out=00010110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10101111  in2=01101101 s=1001 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10101111  in2=01101101 s=1001 m=1 cin=0  out=11010001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 130: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10101111  in2=01101101 s=1001 m=1 cin=0  out=11010001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01011001  in2=11001111 s=1010 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01011001  in2=11001111 s=1010 m=1 cin=0  out=00111101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 135: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01011001  in2=11001111 s=1010 m=1 cin=0  out=00111101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01101100  in2=11100110 s=1011 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01101100  in2=11100110 s=1011 m=1 cin=0  out=11001111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 140: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01101100  in2=11100110 s=1011 m=1 cin=0  out=11001111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11101000  in2=10110010 s=1100 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11101000  in2=10110010 s=1100 m=1 cin=0  out=01100100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 145: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11101000  in2=10110010 s=1100 m=1 cin=0  out=01100100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11001101  in2=00110011 s=1101 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11001101  in2=00110011 s=1101 m=1 cin=0  out=00000001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 150: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11001101  in2=00110011 s=1101 m=1 cin=0  out=00000001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00011011  in2=01101001 s=1110 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00011011  in2=01101001 s=1110 m=1 cin=0  out=11001101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 155: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00011011  in2=01101001 s=1110 m=1 cin=0  out=11001101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11010010  in2=01010100 s=1111 m=1 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11010010  in2=01010100 s=1111 m=1 cin=0  out=01111011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 160: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11010010  in2=01010100 s=1111 m=1 cin=0  out=01111011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000100  in2=11110010 s=0000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000100  in2=11110010 s=0000 m=0 cin=0  out=11010010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 165: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000100  in2=11110010 s=0000 m=0 cin=0  out=11010010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00010001  in2=01111011 s=0001 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00010001  in2=01111011 s=0001 m=0 cin=0  out=00000101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 170: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00010001  in2=01111011 s=0001 m=0 cin=0  out=00000101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10001011  in2=01101101 s=0010 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10001011  in2=01101101 s=0010 m=0 cin=0  out=01111100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 175: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10001011  in2=01101101 s=0010 m=0 cin=0  out=01111100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11001000  in2=00010010 s=0011 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11001000  in2=00010010 s=0011 m=0 cin=0  out=01111110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 180: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11001000  in2=00010010 s=0011 m=0 cin=0  out=01111110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10001100  in2=10000110 s=0100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10001100  in2=10000110 s=0100 m=0 cin=0  out=00000000 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 185: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10001100  in2=10000110 s=0100 m=0 cin=0  out=00000000 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10111001  in2=10101111 s=0101 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10111001  in2=10101111 s=0101 m=0 cin=0  out=10010101 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 190: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10111001  in2=10101111 s=0101 m=0 cin=0  out=10010101 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01001111  in2=10001101 s=0110 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01001111  in2=10001101 s=0110 m=0 cin=0  out=11010000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 195: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01001111  in2=10001101 s=0110 m=0 cin=0  out=11010000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01001110  in2=00100000 s=0111 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01001110  in2=00100000 s=0111 m=0 cin=0  out=11000010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 200: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01001110  in2=00100000 s=0111 m=0 cin=0  out=11000010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10110110  in2=01101000 s=1000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10110110  in2=01101000 s=1000 m=0 cin=0  out=01001110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 205: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10110110  in2=01101000 s=1000 m=0 cin=0  out=01001110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10000111  in2=01100101 s=1001 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10000111  in2=01100101 s=1001 m=0 cin=0  out=11010111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 210: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10000111  in2=01100101 s=1001 m=0 cin=0  out=11010111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11000001  in2=00010111 s=1010 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11000001  in2=00010111 s=1010 m=0 cin=0  out=11101101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 215: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11000001  in2=00010111 s=1010 m=0 cin=0  out=11101101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01100100  in2=01111110 s=1011 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01100100  in2=01111110 s=1011 m=0 cin=0  out=11101011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 220: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01100100  in2=01111110 s=1011 m=0 cin=0  out=11101011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01110000  in2=10011010 s=1100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01110000  in2=10011010 s=1100 m=0 cin=0  out=01100100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 225: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01110000  in2=10011010 s=1100 m=0 cin=0  out=01100100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11100101  in2=01101011 s=1101 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11100101  in2=01101011 s=1101 m=0 cin=0  out=00000000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 230: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11100101  in2=01101011 s=1101 m=0 cin=0  out=00000000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11000011  in2=11110001 s=1110 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11000011  in2=11110001 s=1110 m=0 cin=0  out=11010101 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 235: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11000011  in2=11110001 s=1110 m=0 cin=0  out=11010101 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 240: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00001010  in2=00101100 s=1111 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00001010  in2=00101100 s=1111 m=0 cin=0  out=10010011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 240: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00001010  in2=00101100 s=1111 m=0 cin=0  out=10010011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10111010  in2=00011100 s=0000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10111010  in2=00011100 s=0000 m=0 cin=0  out=00001010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 245: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10111010  in2=00011100 s=0000 m=0 cin=0  out=00001010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11010011  in2=11000001 s=0001 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11010011  in2=11000001 s=0001 m=0 cin=0  out=10111011 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 250: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11010011  in2=11000001 s=0001 m=0 cin=0  out=10111011 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01010101  in2=00011011 s=0010 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 255: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01010101  in2=00011011 s=0010 m=0 cin=0  out=11010100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 255: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01010101  in2=00011011 s=0010 m=0 cin=0  out=11010100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 260: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01000000  in2=00101010 s=0011 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01000000  in2=00101010 s=0011 m=0 cin=0  out=10111100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 260: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01000000  in2=00101010 s=0011 m=0 cin=0  out=10111100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10010100  in2=11101110 s=0100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 265: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10010100  in2=11101110 s=0100 m=0 cin=0  out=00000000 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 265: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10010100  in2=11101110 s=0100 m=0 cin=0  out=00000000 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 270: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01010001  in2=01100111 s=0101 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01010001  in2=01100111 s=0101 m=0 cin=0  out=10100101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 270: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01010001  in2=01100111 s=0101 m=0 cin=0  out=10100101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01110111  in2=10010101 s=0110 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 275: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01110111  in2=10010101 s=0110 m=0 cin=0  out=10001000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 275: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01110111  in2=10010101 s=0110 m=0 cin=0  out=10001000 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 280: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000110  in2=01111000 s=0111 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000110  in2=01111000 s=0111 m=0 cin=0  out=11100010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 280: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000110  in2=01111000 s=0111 m=0 cin=0  out=11100010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111110  in2=00010000 s=1000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 285: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111110  in2=00010000 s=1000 m=0 cin=0  out=00000110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 285: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111110  in2=00010000 s=1000 m=0 cin=0  out=00000110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 290: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01011111  in2=01011101 s=1001 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 290: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01011111  in2=01011101 s=1001 m=0 cin=0  out=00001111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 290: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01011111  in2=01011101 s=1001 m=0 cin=0  out=00001111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00101001  in2=01011111 s=1010 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 295: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00101001  in2=01011111 s=1010 m=0 cin=0  out=10111101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 295: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00101001  in2=01011111 s=1010 m=0 cin=0  out=10111101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 300: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01011100  in2=00010110 s=1011 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 300: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01011100  in2=00010110 s=1011 m=0 cin=0  out=10110011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 300: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01011100  in2=00010110 s=1011 m=0 cin=0  out=10110011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111000  in2=10000010 s=1100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 305: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111000  in2=10000010 s=1100 m=0 cin=0  out=00010100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 305: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111000  in2=10000010 s=1100 m=0 cin=0  out=00010100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 310: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111101  in2=10100011 s=1101 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 310: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111101  in2=10100011 s=1101 m=0 cin=0  out=00000000 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 310: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111101  in2=10100011 s=1101 m=0 cin=0  out=00000000 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01101011  in2=01111001 s=1110 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 315: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01101011  in2=01111001 s=1110 m=0 cin=0  out=11111101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 315: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01101011  in2=01111001 s=1110 m=0 cin=0  out=11111101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 320: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01000010  in2=00000100 s=1111 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 320: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01000010  in2=00000100 s=1111 m=0 cin=0  out=01011011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 320: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01000010  in2=00000100 s=1111 m=0 cin=0  out=01011011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11010100  in2=10000010 s=0000 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 325: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11010100  in2=10000010 s=0000 m=0 cin=1  out=01000010 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 325: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11010100  in2=10000010 s=0000 m=0 cin=1  out=01000010 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 330: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10000001  in2=00101011 s=0001 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 330: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10000001  in2=00101011 s=0001 m=0 cin=1  out=11010100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 330: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10000001  in2=00101011 s=0001 m=0 cin=1  out=11010100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10011011  in2=00111101 s=0010 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 335: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10011011  in2=00111101 s=0010 m=0 cin=1  out=10101011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 335: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10011011  in2=00111101 s=0010 m=0 cin=1  out=10101011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 340: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10111000  in2=01000010 s=0011 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 340: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10111000  in2=01000010 s=0011 m=0 cin=1  out=01111101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 340: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10111000  in2=01000010 s=0011 m=0 cin=1  out=01111101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10011100  in2=01010110 s=0100 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 345: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10011100  in2=01010110 s=0100 m=0 cin=1  out=11111111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 345: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10011100  in2=01010110 s=0100 m=0 cin=1  out=11111111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 350: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11101001  in2=00011111 s=0101 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 350: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11101001  in2=00011111 s=0101 m=0 cin=1  out=00100100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 350: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11101001  in2=00011111 s=0101 m=0 cin=1  out=00100100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10011111  in2=10011101 s=0110 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 355: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10011111  in2=10011101 s=0110 m=0 cin=1  out=11011111 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 355: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10011111  in2=10011101 s=0110 m=0 cin=1  out=11011111 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 360: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10111110  in2=11010000 s=0111 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 360: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10111110  in2=11010000 s=0111 m=0 cin=1  out=00000001 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 360: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10111110  in2=11010000 s=0111 m=0 cin=1  out=00000001 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01000110  in2=10111000 s=1000 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 365: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01000110  in2=10111000 s=1000 m=0 cin=1  out=00101101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 365: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01000110  in2=10111000 s=1000 m=0 cin=1  out=00101101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 370: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00110111  in2=01010101 s=1001 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 370: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00110111  in2=01010101 s=1001 m=0 cin=1  out=01000110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 370: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00110111  in2=01010101 s=1001 m=0 cin=1  out=01000110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10010001  in2=10100111 s=1010 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 375: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10010001  in2=10100111 s=1010 m=0 cin=1  out=10001100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 375: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10010001  in2=10100111 s=1010 m=0 cin=1  out=10001100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 380: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01010100  in2=10101110 s=1011 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 380: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01010100  in2=10101110 s=1011 m=0 cin=1  out=01011010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 380: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01010100  in2=10101110 s=1011 m=0 cin=1  out=01011010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10000000  in2=01101010 s=1100 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 385: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10000000  in2=01101010 s=1100 m=0 cin=1  out=00000011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 385: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10000000  in2=01101010 s=1100 m=0 cin=1  out=00000011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 390: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00010101  in2=11011011 s=1101 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 390: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00010101  in2=11011011 s=1101 m=0 cin=1  out=11111111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 390: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00010101  in2=11011011 s=1101 m=0 cin=1  out=11111111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00010011  in2=00000001 s=1110 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 395: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00010011  in2=00000001 s=1110 m=0 cin=1  out=11110100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 395: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00010011  in2=00000001 s=1110 m=0 cin=1  out=11110100 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 400: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01111010  in2=11011100 s=1111 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 400: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01111010  in2=11011100 s=1111 m=0 cin=1  out=00010010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 400: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01111010  in2=11011100 s=1111 m=0 cin=1  out=00010010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01001010  in2=01101100 s=0000 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 405: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01001010  in2=01101100 s=0000 m=0 cin=1  out=01111001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 405: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01001010  in2=01101100 s=0000 m=0 cin=1  out=01111001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 410: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10000011  in2=10110001 s=0001 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 410: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10000011  in2=10110001 s=0001 m=0 cin=1  out=01001010 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 410: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10000011  in2=10110001 s=0001 m=0 cin=1  out=01001010 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00100101  in2=10101011 s=0010 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 415: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00100101  in2=10101011 s=0010 m=0 cin=1  out=10110011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 415: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00100101  in2=10101011 s=0010 m=0 cin=1  out=10110011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 420: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00110000  in2=01011010 s=0011 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 420: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00110000  in2=01011010 s=0011 m=0 cin=1  out=11111011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 420: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00110000  in2=01011010 s=0011 m=0 cin=1  out=11111011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10100100  in2=10111110 s=0100 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 425: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10100100  in2=10111110 s=0100 m=0 cin=1  out=11111111 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 425: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10100100  in2=10111110 s=0100 m=0 cin=1  out=11111111 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 430: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10000001  in2=11010111 s=0101 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 430: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10000001  in2=11010111 s=0101 m=0 cin=1  out=10100100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 430: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10000001  in2=11010111 s=0101 m=0 cin=1  out=10100100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11000111  in2=10100101 s=0110 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 435: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11000111  in2=10100101 s=0110 m=0 cin=1  out=11010111 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 435: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11000111  in2=10100101 s=0110 m=0 cin=1  out=11010111 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 440: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01110110  in2=00101000 s=0111 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 440: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01110110  in2=00101000 s=0111 m=0 cin=1  out=00100001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 440: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01110110  in2=00101000 s=0111 m=0 cin=1  out=00100001 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10001110  in2=01100000 s=1000 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 445: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10001110  in2=01100000 s=1000 m=0 cin=1  out=01010101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 445: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10001110  in2=01100000 s=1000 m=0 cin=1  out=01010101 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 450: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00001111  in2=01001101 s=1001 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 450: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00001111  in2=01001101 s=1001 m=0 cin=1  out=10001110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 450: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00001111  in2=01001101 s=1001 m=0 cin=1  out=10001110 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111001  in2=11101111 s=1010 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 455: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111001  in2=11101111 s=1010 m=0 cin=1  out=01011100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 455: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111001  in2=11101111 s=1010 m=0 cin=1  out=01011100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 460: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=01001100  in2=01000110 s=1011 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 460: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=01001100  in2=01000110 s=1011 m=0 cin=1  out=11100010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 460: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=01001100  in2=01000110 s=1011 m=0 cin=1  out=11100010 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00001000  in2=01010010 s=1100 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 465: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00001000  in2=01010010 s=1100 m=0 cin=1  out=01000011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 465: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00001000  in2=01010010 s=1100 m=0 cin=1  out=01000011 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 470: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00101101  in2=00010011 s=1101 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 470: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00101101  in2=00010011 s=1101 m=0 cin=1  out=11111111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 470: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00101101  in2=00010011 s=1101 m=0 cin=1  out=11111111 cout=0 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10111011  in2=10001001 s=1110 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 475: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10111011  in2=10001001 s=1110 m=0 cin=1  out=01101100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 475: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10111011  in2=10001001 s=1110 m=0 cin=1  out=01101100 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 480: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=10110010  in2=10110100 s=1111 m=0 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 480: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=10110010  in2=10110100 s=1111 m=0 cin=1  out=10111010 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 480: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=10110010  in2=10110100 s=1111 m=0 cin=1  out=10111010 cout=1 aeb=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 485: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0100 m=0 cin=0  out=10110001 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 485: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0100 m=0 cin=0  out=10110001 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 490: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0001 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 490: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0001 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 490: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0001 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1011 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 495: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1011 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 495: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1011 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 500: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0010 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 500: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0010 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 500: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0010 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 505: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0110 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 505: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0110 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 505: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0110 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 510: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0111 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 510: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0111 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 510: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0111 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 515: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0101 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 515: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0101 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 515: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0101 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 520: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 520: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0000 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 520: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0000 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 525: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 525: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1000 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 525: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1000 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 530: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1101 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 530: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1101 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 530: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1101 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 535: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1111 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 535: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1111 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 535: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1111 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 540: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1110 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 540: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1110 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 540: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1110 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 545: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1010 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 545: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1010 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 545: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1010 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 550: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0011 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 550: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0011 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 550: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0011 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 555: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1001 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 555: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1001 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 555: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1001 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 560: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 560: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1100 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 560: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1100 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 565: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 570: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1001 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 570: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1001 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 570: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1001 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 575: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0011 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 575: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0011 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 575: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0011 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 580: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1010 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 580: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1010 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 580: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1010 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 585: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1110 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 585: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1110 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 585: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1110 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 590: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1111 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 590: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1111 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 590: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1111 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 595: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1101 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 595: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1101 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 595: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1101 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 600: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 600: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1000 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 600: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1000 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 605: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 605: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0000 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 605: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0000 m=0 cin=0  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 610: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0101 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 610: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0101 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 610: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0101 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 615: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0111 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 615: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0111 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 615: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0111 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 620: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0110 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 620: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0110 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 620: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0110 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 625: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0010 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 625: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0010 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 625: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0010 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 630: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=1011 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 630: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=1011 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 630: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=1011 m=1 cin=1  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 635: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0001 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 635: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0001 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 635: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0001 m=1 cin=1  out=11111111 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 640: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=11111111  in2=11111111 s=0100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 640: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=11111111  in2=11111111 s=0100 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 640: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=11111111  in2=11111111 s=0100 m=0 cin=0  out=00000000 cout=1 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 645: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 645: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0000 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 645: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0000 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 650: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0001 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 650: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0001 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 650: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0001 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 655: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0010 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 655: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0010 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 655: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0010 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 660: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0011 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 660: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0011 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 660: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0011 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 665: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 665: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0100 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 665: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0100 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 670: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0101 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 670: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0101 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 670: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0101 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 675: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0110 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 675: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0110 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 675: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0110 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 680: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0111 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 680: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0111 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 680: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0111 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 685: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 685: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1000 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 685: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1000 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 690: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1001 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 690: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1001 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 690: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1001 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 695: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1010 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 695: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1010 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 695: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1010 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 700: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1011 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 700: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1011 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 700: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1011 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 705: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 705: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1100 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 705: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1100 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 710: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1101 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 710: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1101 m=1 cin=1  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 710: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1101 m=1 cin=1  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 715: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1110 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 715: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1110 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 715: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1110 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 720: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1111 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 720: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1111 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 720: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1111 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 725: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 725: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0000 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 725: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0000 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 730: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0001 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 730: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0001 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 730: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0001 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 735: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0010 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 735: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0010 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 735: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0010 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 740: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0011 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 740: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0011 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 740: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0011 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 745: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 745: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0100 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 745: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0100 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 750: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0101 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 750: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0101 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 750: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0101 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 755: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0110 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 755: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0110 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 755: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0110 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 760: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=0111 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 760: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=0111 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 760: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=0111 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 765: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1000 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 765: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1000 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 765: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1000 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 770: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1001 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 770: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1001 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 770: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1001 m=1 cin=1  out=00000001 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 775: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1010 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 775: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1010 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 775: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1010 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 780: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1011 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 780: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1011 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 780: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1011 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 785: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1100 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 785: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1100 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 785: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1100 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 790: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1101 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 790: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1101 m=1 cin=1  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 790: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1101 m=1 cin=1  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 795: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1110 m=1 cin=1
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 795: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1110 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 795: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1110 m=1 cin=1  out=11111111 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(45) @ 800: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=00000000  in2=00000000 s=1111 m=0 cin=0
+UVM_INFO /home/runner/alu_scoreboard.sv(145) @ 800: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=00000000  in2=00000000 s=1111 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_scoreboard.sv(160) @ 800: uvm_test_top.env_h.scoreboard_h [
+ PASS ] in1=00000000  in2=00000000 s=1111 m=0 cin=0  out=00000000 cout=0 aeb=1
+UVM_INFO /home/runner/alu_coverage.sv(72) @ 810: uvm_test_top.env_h.coverage_h [alu_coverage] Coverage is 100.000000
+UVM_INFO /home/runner/alu_scoreboard.sv(179) @ 810: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 157 vectors ran, 157 vectors passed ***
